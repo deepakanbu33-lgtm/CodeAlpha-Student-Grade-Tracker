@@ -10,6 +10,6 @@ This project is part of the CodeAlpha Java Programming Internship.
 
 ## How to Run
 1. Compile the program:
-   javac StudentGradeTracker.java
+   javac task1.java
 2. Run the program:
-   java StudentGradeTracker
+   java task1
